@@ -1,0 +1,9 @@
+{
+    "id": "lightguilded",
+    "name": "LIght Guilded (based on Outer space theme)",
+    "author": "maicol07 - Pm7NgbMd (Outer space author)",
+    "version": "0.1",
+    "files": "lighttheme.css",
+    "banner": "banner.png",
+    "images": ["preview.png"]
+}
