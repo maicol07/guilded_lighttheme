@@ -1,1 +1,1 @@
-Purple-ish theme for Guilded
+Light theme for Guilded
